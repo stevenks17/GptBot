@@ -16,7 +16,7 @@ GPTBot is a Discord bot that integrates with OpenAI's GPT-3 to provide an intera
 - A Discord account and server for deploying the bot
 
 ## Installation
-1. **Clone the Repository**
+ **Clone the Repository**
    ```bash
    git clone [URL to GPTBot repository]
    cd GPTBot
